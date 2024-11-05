@@ -11,6 +11,7 @@ package ontap;
 public class tt {
     String name;
     String pass;
+    String tets;
 
     public tt(String name, String pass) {
         this.name = name;
